@@ -18,7 +18,6 @@ In this module, we:
 In this challenge, we used advanced queries and joins to create a list of candidates for the mentorship program. To complete this task, we used our knowledge of aliasing, filtering, and creating new tables.
 
 ### Objectives
-The goals of this challenge are for us to:
 - Use an ERD to understand relationships between SQL tables.
 - Create new tables in pgAdmin by using different joins.
 - Write basic- to intermediate-level SQL statements.
