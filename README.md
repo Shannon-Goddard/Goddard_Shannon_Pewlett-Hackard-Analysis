@@ -17,11 +17,11 @@ In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and an
 
 <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png"
      alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="1200"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png"
-     alt="Home Screen"
-     style="float: left; margin-right: 40px;"
-     width="400"/>
+     style="float: center; margin-right: 10px;"
+     width="1200"/> 
+A conceptual diagram is an ERD in its simplest form. To create one, we only need two things: a table name and column headers.  
+
+It’s simple because we’re creating just the concept of the diagram. By covering only the basics, it’s easier to capture the main points. If we tried to capture everything at once (data types, location of the primary and foreign keys, etc.), we’re more likely to overlook a crucial item.
 
 ## Challenge Overview
 In this challenge, we used advanced queries and joins to create a list of candidates for the mentorship program. To complete this task, we used our knowledge of aliasing, filtering, and creating new tables.
