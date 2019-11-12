@@ -19,17 +19,10 @@ A **conceptual diagram** is an ERD in its simplest form. To create one, we only 
 **Logical diagrams** contain all of the same information that a conceptual diagram does, but the table is updated to include data types and primary keys.
 
 **Physical diagrams** portray the physical relationship, or how the data is connected, between each table.
-<p align="center">
- <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png"
-      style="float: center; margin-right: 10px;"
-      width="900"
-      height="400"
-      title="Github Logo"><img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png"
-                               style="float: center; margin-right: 10px;"
-                               width="200"
-                               height="200"
-                               title="Github Logo">
-</p>
+text here                                             |    text here
+:----------------------------------------------------:|:---------------------------------------------------:
+![EmployeeDB](https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)   |![defined](https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png)
+
 One benefit to building out each form of the diagram (conceptual, logical, and physical) is that it gives us more exposure to the data and its layout. When writing queries in SQL, data is organized into tables, as shown in the ERD. With the help of the diagram, we know the structure of the table: the amount of columns with their data types. The table can be, already, named. All we need to do is transfer over the same information.
 
 ## Challenge Overview
