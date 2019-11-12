@@ -14,11 +14,11 @@ In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and an
 - **Software:** Postgres, pgAdmin
 
 ## Summary
-A conceptual diagram is an ERD in its simplest form. To create one, we only need two things: a table name and column headers.
+A **conceptual diagram** is an ERD in its simplest form. To create one, we only need two things: a table name and column headers.
 
-Logical diagrams contain all of the same information that a conceptual diagram does, but the table is updated to include data types and primary keys.
+**Logical diagrams** contain all of the same information that a conceptual diagram does, but the table is updated to include data types and primary keys.
 
-Physical diagrams portray the physical relationship, or how the data is connected, between each table.
+**Physical diagrams** portray the physical relationship, or how the data is connected, between each table.
 <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png"
      alt="Home Screen"
      style="float: center; margin-right: 10px;"
