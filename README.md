@@ -21,7 +21,7 @@ In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and an
      width="1200"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png"
      alt="Home Screen"
      style="float: right; margin-left: 40px;"
-     width="600"/>
+     width="400"/>
 
 ## Challenge Overview
 In this challenge, we used advanced queries and joins to create a list of candidates for the mentorship program. To complete this task, we used our knowledge of aliasing, filtering, and creating new tables.
