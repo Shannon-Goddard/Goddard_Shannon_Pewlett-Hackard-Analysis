@@ -14,8 +14,17 @@ In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and an
 - **Software:** Postgres, pgAdmin
 
 ## Summary
+https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png
 
-<![EmployeeDB](https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)><A conceptual diagram is an ERD in its simplest form. To create one, we only need two things: a table name and column headers.  
+<img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="900"/> <img src="My text here"
+     alt="Home Screen"
+     style="float: left; margin-right: 40px;"
+     width="500"/>
+
+A conceptual diagram is an ERD in its simplest form. To create one, we only need two things: a table name and column headers.  
 
 It’s simple because we’re creating just the concept of the diagram. By covering only the basics, it’s easier to capture the main  
 points. If we tried to capture everything at once (data types, location of the primary and foreign keys, etc.), we’re more likely to 
