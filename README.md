@@ -31,5 +31,5 @@ To create the new list of potential mentors, we created a query that returns a l
      style="float: left; margin-right: 10px;"
      width="200"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/number_of_titles_excel.png"
      alt="Home Screen"
-     style="float: left; margin-right: 20px;"
+     style="float: left; margin-right: 40px;"
      width="200"/>
