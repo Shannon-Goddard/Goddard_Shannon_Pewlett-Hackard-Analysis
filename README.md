@@ -18,7 +18,7 @@ In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and an
 <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="100"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png"
+     width="300"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/>
