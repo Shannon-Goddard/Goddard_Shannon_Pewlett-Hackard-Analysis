@@ -62,4 +62,4 @@ In this challenge, we used advanced queries and joins to create a list of candid
      style="float: left; margin-right: 40px;"
      width="455"/>
 
-**The final query returns the potential mentor’s employee number, first and last name, their title, birth date and employment dates.**
+**To find who's ready for a mentor, we created a new table. The birth date was set to be between January 1, 1965 and December 31, 1965. Also, we made sure only current employees were included in this list. The final query returns the potential mentor’s employee number, first and last name, their title, birth date and employment dates.**
