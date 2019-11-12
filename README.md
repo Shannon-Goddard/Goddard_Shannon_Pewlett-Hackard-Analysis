@@ -24,7 +24,7 @@ A **conceptual diagram** is an ERD in its simplest form. To create one, we only 
      style="float: right; margin-bottom: 10px;"
      width="600"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png"
      alt="Home Screen"
-     style="float: right; margin-top: 0px;"
+     style="float: right; margin-right: 0px;"
      width="200"/>
 
 One benefit to building out each form of the diagram (conceptual, logical, and physical) is that it gives us more exposure to the data and its layout. When writing queries in SQL, data is organized into tables, as shown in the ERD. With the help of the diagram, we know the structure of the table: the amount of columns with their data types. The table can be, already, named. All we need to do is transfer over the same information.
