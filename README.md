@@ -22,7 +22,7 @@ A **conceptual diagram** is an ERD in its simplest form. To create one, we only 
 <p align="center">
  <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png"
       style="float: left; margin-right: 10px;"
-      width="600"
+      width="900"
       height="400"
       title="Github Logo"><img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png"
                                style="float: left; margin-right: 10px;"
