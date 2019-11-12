@@ -42,7 +42,7 @@ To create the new list of potential mentors, we created a query that returns a l
      width="400"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/only_the_most_recent_excel.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="300"/>    
+     width="320"/>    
      
      
      
@@ -50,10 +50,10 @@ To create the new list of potential mentors, we created a query that returns a l
  <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/whos_ready_for_a_mentor.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="400"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/whos_ready_for_a_mentor_excel.png"
+     width="380"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/whos_ready_for_a_mentor_excel.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="500"/>
+     width="480"/>
 
 
 
