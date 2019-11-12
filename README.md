@@ -34,10 +34,9 @@ In this challenge, we used advanced queries and joins to create a list of candid
      width="500"/>
      
 **To create the new list of potential mentors, we created a query that returns a list of current employees eligible for retirement, as well as their most recent titles.**  
-
-
-
-
+<br/>
+<br/>
+<br/>
 <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/only_the_most_recent_titles.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
@@ -47,11 +46,10 @@ In this challenge, we used advanced queries and joins to create a list of candid
      width="332"/>    
      
 **To get the final list with the recent titles, we partition the data so that each employee is only included on the list once. In addition, we performed a query that shows how many current employees of each title are presently eligible for retirement.**     
-     
- 
- 
- 
- <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/whos_ready_for_a_mentor.png"
+<br/>     
+<br/>
+<br/> 
+<img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/whos_ready_for_a_mentor.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="390"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/whos_ready_for_a_mentor_excel.png"
