@@ -20,7 +20,7 @@ In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and an
      style="float: left; margin-right: 10px;"
      width="1200"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png"
      alt="Home Screen"
-     style="float: right; margin-left: 40px;"
+     style="float: left; margin-right: 40px;"
      width="400"/>
 
 ## Challenge Overview
