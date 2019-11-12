@@ -2,17 +2,19 @@
 ## Project Overview
 In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and analysis. Applying our knowledge of DataFrames and tabular data, we created entity relationship diagrams (ERDs), import data into a database, troubleshot common errors, and created queries that use data to answer questions using SQL techniques.
 
-## Resources
-- **Data Source:** departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
-- **Software:** Postgres, pgAdmin
-
-## Summary
-In this module, we: 
+### Objectives 
 - Designed an ERD that applied to the data.
 - Created and used a SQL database.
 - Imported and exported large CSV datasets into pgAdmin.
 - Practiced using different joins to create new tables in pgAdmin.
 - Wrote basic- to intermediate-level SQL statements.
+
+## Resources
+- **Data Source:** departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
+- **Software:** Postgres, pgAdmin
+
+## Summary
+
 
 ## Challenge Overview
 In this challenge, we used advanced queries and joins to create a list of candidates for the mentorship program. To complete this task, we used our knowledge of aliasing, filtering, and creating new tables.
