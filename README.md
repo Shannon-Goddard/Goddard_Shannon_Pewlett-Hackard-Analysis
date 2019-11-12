@@ -21,8 +21,7 @@ A **conceptual diagram** is an ERD in its simplest form. To create one, we only 
 **Physical diagrams** portray the physical relationship, or how the data is connected, between each table.
 output 
 <p align="left">
- <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png" width=auto height=auto title="Github Logo">
-</p>
+ <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png" width=auto height=auto title="Github Logo"></p>
 <p align="right">
  <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png" width=auto height=auto title="Github Logo">
 </p>
