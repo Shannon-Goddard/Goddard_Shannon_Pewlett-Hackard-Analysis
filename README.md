@@ -36,12 +36,14 @@ To create the new list of potential mentors, we created a query that returns a l
      
      
      
+ <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/only_the_most_recent_titles.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="300"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/only_the_most_recent_excel.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 40px;"
+     width="500"/>    
      
      
      
-     
-     https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/only_the_most_recent_titles.png
-     
-     
-     
-     
+
