@@ -15,12 +15,12 @@ In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and an
 
 ## Summary
 ---
-a: "A **conceptual diagram** is an ERD in its simplest form. To create one, we only need two things: a table name and column headers."
+title: "A **conceptual diagram** is an ERD in its simplest form. To create one, we only need two things: a table name and column headers."
 
-b: "**Logical diagrams** contain all of the same information that a conceptual diagram does, but the table is updated to include data types and primary keys."
+author: "**Logical diagrams** contain all of the same information that a conceptual diagram does, but the table is updated to include data types and primary keys."
 
-c: "**Physical diagrams** portray the physical relationship, or how the data is connected, between each table."
-d: ![EmployeeDB](https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
+date: "**Physical diagrams** portray the physical relationship, or how the data is connected, between each table."
+output: ![EmployeeDB](https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
 --- 
  
 One benefit to building out each form of the diagram (conceptual, logical, and physical) is that it gives us more exposure to the data and its layout. When writing queries in SQL, data is organized into tables, as shown in the ERD. With the help of the diagram, we know the structure of the table: the amount of columns with their data types. The table can be, already, named. All we need to do is transfer over the same information.
