@@ -34,8 +34,8 @@ To create the new list of potential mentors, we created a query that returns a l
      style="float: left; margin-right: 40px;"
      width="500"/>
      
- To get the final list with the recent titles, we partition the data so that each employee is only included on the list once. In addition, we performed a query that shows how many current employees of each title are presently eligible for retirement:    
-![alt text][logo]      
+![To get the final list with the recent titles, we partition the data so that each employee is only included on the list once. In addition, we performed a query that shows how many current employees of each title are presently eligible for retirement.]   
+      
 <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/only_the_most_recent_titles.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
