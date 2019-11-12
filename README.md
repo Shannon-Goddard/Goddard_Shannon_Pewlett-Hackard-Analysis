@@ -3,11 +3,11 @@
 In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and analysis. Applying our knowledge of DataFrames and tabular data, we created entity relationship diagrams (ERDs), import data into a database, troubleshot common errors, and created queries that use data to answer questions using SQL techniques.
 
 ### Objectives 
-- Designed an ERD that applied to the data.
-- Created and used a SQL database.
-- Imported and exported large CSV datasets into pgAdmin.
-- Practiced using different joins to create new tables in pgAdmin.
-- Wrote basic- to intermediate-level SQL statements.
+- Design an ERD that applies to the data.
+- Create and use a SQL database.
+- Importe and exporte large CSV datasets into pgAdmin.
+- Practice using different joins to create new tables in pgAdmin.
+- Write basic- to intermediate-level SQL statements.
 
 ## Resources
 - **Data Source:** departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
