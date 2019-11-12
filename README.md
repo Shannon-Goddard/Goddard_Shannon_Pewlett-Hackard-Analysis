@@ -24,7 +24,7 @@ In this challenge, we used advanced queries and joins to create a list of candid
 - Export new tables to a CSV file.
 
 ## Challenge Summary
-To create the new list of potential mentors, we created a query that returns a list of current employees eligible for retirement, as well as their most recent titles. To get the final list with the recent titles, we partition the data so that each employee is only included on the list once. In addition, we performed a query that shows how many current employees of each title are presently eligible for retirement. The final query returns the potential mentor’s employee number, first and last name, their title, birth date and employment dates.
+To create the new list of potential mentors, we created a query that returns a list of current employees eligible for retirement, as well as their most recent titles. 
 
 <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/number_of_titles_retiring.png"
      alt="Home Screen"
@@ -34,9 +34,9 @@ To create the new list of potential mentors, we created a query that returns a l
      style="float: left; margin-right: 40px;"
      width="500"/>
      
-     
-     
- <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/only_the_most_recent_titles.png"
+ To get the final list with the recent titles, we partition the data so that each employee is only included on the list once. In addition, we performed a query that shows how many current employees of each title are presently eligible for retirement.    
+      
+<img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/only_the_most_recent_titles.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="400"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/only_the_most_recent_excel.png"
@@ -44,9 +44,8 @@ To create the new list of potential mentors, we created a query that returns a l
      style="float: left; margin-right: 40px;"
      width="332"/>    
      
+The final query returns the potential mentor’s employee number, first and last name, their title, birth date and employment dates.     
      
-     
-
  <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/whos_ready_for_a_mentor.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
@@ -54,7 +53,3 @@ To create the new list of potential mentors, we created a query that returns a l
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="455"/>
-
-
-
-
