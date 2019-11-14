@@ -1,17 +1,36 @@
 # Goddard_Shannon_Pewlett-Hackard-Analysis
+
+#### Table of Contents
+
+[Project Overview](#project-overview)  
+[Resources](#resources)  
+[Objectives](#objectives)  
+[Summary](#summary)  
+[Challenge Overview](#challenge-overview)  
+[Challenge Summary](#challenge-summary)
+
 ## Project Overview
 In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and analysis. Applying our knowledge of DataFrames and tabular data, we created entity relationship diagrams (ERDs), import data into a database, troubleshot common errors, and created queries that use data to answer questions using SQL techniques.
 
-### Objectives 
+## Resources
+The Pewlett-Hackard-Analysis module uses PostgreSQL which required pgAdmin to be installed. Visit the [PostgresSQL download website](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+ to initiate your download
+  
+- **Data Source:** [departments.csv](/Data/departments.csv), [dept_emp.csv](/Data/dept_emp.csv), [dept_manager.csv](/Data/dept_manager.csv), [employees.csv](/Data/employees.csv), [salaries.csv](/Data/salaries.csv), [titles.csv](/Data/titles.csv)
+- **Software:** Postgres, pgAdmin  
+
+For more about PostgreSQL, see:  
+- The PostgreSQL documentation
+ https://www.postgresql.org/docs/manuals/  
+- The PostgreSQL tutorial
+ https://www.tutorialspoint.com/postgresql/
+
+## Objectives 
 - Design an ERD that applies to the data.
 - Create and use a SQL database.
 - Import and export large CSV datasets into pgAdmin.
 - Practice using different joins to create new tables in pgAdmin.
 - Write basic- to intermediate-level SQL statements.
-
-## Resources
-- **Data Source:** departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
-- **Software:** Postgres, pgAdmin
 
 ## Summary
 There are several ways to refer to the map we created. It’s also called a flowchart, an entity relationship diagram, and a schema. We used all of these terms in this module, though “ERD” is the most specific. There are three forms of ERDs: conceptual, logical, and physical. A **conceptual diagram** is an ERD in its simplest form. To create one, we only need two things: a table name and column headers. **Logical diagrams** contain all of the same information that a conceptual diagram does, but the table is updated to include data types and primary keys. **Physical diagrams** portray the physical relationship, or how the data is connected, between each table. As we added more information to our tables, such as data types and keys, we advanced through the more complex diagrams.
