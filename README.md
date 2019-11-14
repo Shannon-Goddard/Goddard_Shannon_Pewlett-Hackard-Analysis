@@ -38,7 +38,7 @@ There are several ways to refer to the map we created. It’s also called a flow
 A **conceptual diagram** is an ERD in its simplest form. To create one, we only need two things: a table name and column headers. **Logical diagrams** contain all of the same information that a conceptual diagram does, but the table is updated to include data types and primary keys. **Physical diagrams** portray the physical relationship, or how the data is connected, between each table.  
 
 As we added more information to our tables, such as data types and keys, we advanced through the more complex diagrams.
-![EmployeeDB](https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/ERD%20defined.png"Pewlett-Hackard-Analysis ERD")
+![EmployeeDB](/CHALLENGE/pics%20of%20output/ERD%20defined.png, "Pewlett-Hackard-Analysis ERD")
 <br/>
 One benefit to building out each form of the diagram (conceptual, logical, and physical) is that it gives us more exposure to the data and its layout. When writing queries in SQL, data is organized into tables, as shown in the ERD. With the help of the diagram, we know the structure of the table: the amount of columns with their data types. The table can be, already, named. All we need to do is transfer over the same information.
 
@@ -66,10 +66,10 @@ We were instructed to create a new table using a RIGHT JOIN that contains Employ
 <br/>
 <br/>
 ### Only the Most Recent Titles
-<img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/only_the_most_recent_titles.png"
+<img src="/CHALLENGE/pics%20of%20code/only_the_most_recent_titles.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="400"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/only_the_most_recent_excel.png"
+     width="400"/> <img src="/CHALLENGE/pics%20of%20output/only_the_most_recent_excel.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="332"/>    
@@ -79,10 +79,10 @@ Here, we were instructed to list the frequency count of emplyee titles in decend
 <br/>
 <br/> 
 ### Who’s Ready for a Mentor?
-<img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20code/whos_ready_for_a_mentor.png"
+<img src="/CHALLENGE/pics%20of%20code/whos_ready_for_a_mentor.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="390"/> <img src="https://github.com/Shannon-Goddard/Goddard_Shannon_Pewlett-Hackard-Analysis/blob/master/CHALLENGE/pics%20of%20output/whos_ready_for_a_mentor_excel.png"
+     width="390"/> <img src="/CHALLENGE/pics%20of%20output/whos_ready_for_a_mentor_excel.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="455"/>
