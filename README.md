@@ -38,7 +38,9 @@ There are several ways to refer to the map we created. It’s also called a flow
 A **conceptual diagram** is an ERD in its simplest form. To create one, we only need two things: a table name and column headers. **Logical diagrams** contain all of the same information that a conceptual diagram does, but the table is updated to include data types and primary keys. **Physical diagrams** portray the physical relationship, or how the data is connected, between each table.  
 
 As we added more information to our tables, such as data types and keys, we advanced through the more complex diagrams.
-![EmployeeDB](/CHALLENGE/pics%20of%20output/ERD%20defined.png, "Pewlett-Hackard-Analysis ERD")
+<br/>
+### EmployeeDB ERD
+![EmployeeDB](/CHALLENGE/pics%20of%20output/ERD%20defined.png)
 <br/>
 One benefit to building out each form of the diagram (conceptual, logical, and physical) is that it gives us more exposure to the data and its layout. When writing queries in SQL, data is organized into tables, as shown in the ERD. With the help of the diagram, we know the structure of the table: the amount of columns with their data types. The table can be, already, named. All we need to do is transfer over the same information.
 
@@ -60,7 +62,7 @@ In this challenge, we used advanced queries and joins to create a list of candid
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="500"/>  
-<br/>    
+<br/>
 We were instructed to create a new table using a RIGHT JOIN that contains Employee number, First and last name, Title, from_date, and Salary. Then, export the data as a CSV. To create the new list of potential mentors, we created a query that returns a list of current employees eligible for retirement, as well as their most recent titles.  
 <br/>
 <br/>
@@ -73,7 +75,7 @@ We were instructed to create a new table using a RIGHT JOIN that contains Employ
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="332"/>    
-<br/>    
+<br/>
 Here, we were instructed to list the frequency count of emplyee titles in decending order. To get the final list with the recent titles, we partition the data so that each employee is only included on the list once. In addition, we performed a query that shows how many current employees of each title are presently eligible for retirement.    
 <br/>     
 <br/>
