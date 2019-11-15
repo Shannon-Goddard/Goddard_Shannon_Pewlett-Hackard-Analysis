@@ -2,7 +2,7 @@
 <img src="/PHlogo.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="310"/> 
+     width="150"/> 
 
 #### Table of Contents
 
