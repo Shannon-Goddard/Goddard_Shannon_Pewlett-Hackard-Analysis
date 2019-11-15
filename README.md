@@ -1,5 +1,8 @@
 # Goddard_Shannon_Pewlett-Hackard-Analysis 
-<img src="/PHlogo.png"alt="Home Screen" style="float: right; margin-right: 10px;"width="180"/>
+<img src="/PHlogo.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="310"/> 
 
 #### Table of Contents
 
