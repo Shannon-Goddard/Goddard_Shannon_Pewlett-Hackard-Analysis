@@ -1,8 +1,8 @@
-# Goddard_Shannon_Pewlett-Hackard-Analysis 
+
 <img src="/PHlogo.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="150"/> 
+     width="150"/> # Goddard_Shannon_Pewlett-Hackard-Analysis 
 
 #### Table of Contents
 
