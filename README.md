@@ -3,7 +3,7 @@
 <img src="/PHlogo.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="310"/>
+     width="180"/>
 
 #### Table of Contents
 
